@@ -10,8 +10,5 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://guides.github.com/features/mastering-markdown/)
 -->
- ______   __     __     ______   ______     ______     __    __    
-/\  == \ /\ \  _ \ \   /\__  _\ /\  ___\   /\  __ \   /\ "-./  \   
-\ \  _-/ \ \ \/ ".\ \  \/_/\ \/ \ \  __\   \ \  __ \  \ \ \-./\ \  
- \ \_\    \ \__/".~\_\    \ \_\  \ \_____\  \ \_\ \_\  \ \_\ \ \_\ 
-  \/_/     \/_/   \/_/     \/_/   \/_____/   \/_/\/_/   \/_/  \/_/ 
+
+We are not the same, but we are the same.
